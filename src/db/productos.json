@@ -1,0 +1,317 @@
+[
+  {
+    "title": "Notebook HP Pavilion 15",
+    "price": 520,
+    "description": "Pantalla: 15.6 pulgadas, Resolución: 1920 x 1080 pixeles, Sistema operativo: Windows 11 Home, Procesador: Intel Core i5-1135G7, Memoria RAM: 8GB, Memoria interna: 256GB SSD",
+    "category": "notebook",
+    "image": "https://image.shutterstock.com/image-photo/laptop-260nw-1680215184.jpg"
+  },
+  {
+    "title": "Monitor LG UltraGear 27\"",
+    "price": 300,
+    "description": "Pantalla: 27 pulgadas, Resolución: 2560 x 1440 pixeles, Tipo de panel: IPS, Frecuencia de actualización: 144Hz, Tiempo de respuesta: 1ms",
+    "category": "monitor",
+    "image": "https://image.shutterstock.com/image-photo/monitor-260nw-1645337685.jpg"
+  },
+  {
+    "title": "Teclado Logitech MX Keys",
+    "price": 120,
+    "description": "Tipo: Membrana, Conectividad: Bluetooth y USB-C, Retroiluminación: Sí, Diseño: Teclado completo (104 teclas)",
+    "category": "teclado",
+    "image": "https://image.shutterstock.com/image-photo/keyboard-260nw-1934411267.jpg"
+  },
+  {
+    "title": "Mouse Inalámbrico Microsoft",
+    "price": 35,
+    "description": "Conectividad: Bluetooth, DPI ajustable: Hasta 1600, Diseño: Ambidiestro, Alimentación: 1 pila AA",
+    "category": "mouse",
+    "image": "https://image.shutterstock.com/image-photo/mouse-260nw-1402179854.jpg"
+  },
+  {
+    "title": "Auriculares HyperX Cloud II",
+    "price": 120,
+    "description": "Tipo: Over-ear, Conectividad: Cable, Sonido envolvente: 7.1, Micrófono: Extraíble",
+    "category": "auriculares",
+    "image": "https://image.shutterstock.com/image-photo/headphones-260nw-1517334991.jpg"
+  },
+  {
+    "title": "Procesador Intel Core i7-12700K",
+    "price": 410,
+    "description": "Cores: 12, Threads: 20, Frecuencia base: 3.6 GHz, Frecuencia turbo: 5.0 GHz, Socket: LGA 1700",
+    "category": "procesador",
+    "image": "https://image.shutterstock.com/image-photo/processor-260nw-1709867483.jpg"
+  },
+  {
+    "title": "Tarjeta Gráfica AMD Radeon RX 6700 XT",
+    "price": 470,
+    "description": "Memoria: 12GB GDDR6, Salidas: HDMI, DisplayPort, Resolución máxima: 7680x4320",
+    "category": "tarjeta gráfica",
+    "image": "https://image.shutterstock.com/image-photo/gpu-260nw-1844537984.jpg"
+  },
+  {
+    "title": "Disco Duro WD Blue 1TB",
+    "price": 45,
+    "description": "Capacidad: 1TB, Tipo: HDD, Velocidad de rotación: 7200 RPM, Interfaz: SATA 6Gb/s",
+    "category": "disco duro",
+    "image": "https://image.shutterstock.com/image-photo/hdd-260nw-1366545463.jpg"
+  },
+  {
+    "title": "Memoria RAM Kingston HyperX Fury 8GB",
+    "price": 40,
+    "description": "Capacidad: 8GB, Tipo: DDR4, Frecuencia: 3200 MHz, Voltaje: 1.35V",
+    "category": "memoria RAM",
+    "image": "https://image.shutterstock.com/image-photo/ram-260nw-1543265325.jpg"
+  },
+  {
+    "title": "Fuente de Alimentación Corsair 750W",
+    "price": 95,
+    "description": "Potencia: 750W, Certificación: 80 Plus Gold, Conectores: ATX, EPS, PCIe, SATA",
+    "category": "fuente de alimentación",
+    "image": "https://image.shutterstock.com/image-photo/psu-260nw-1649873241.jpg"
+  },
+  {
+    "title": "Placa Madre MSI MAG B660 Tomahawk",
+    "price": 180,
+    "description": "Socket: LGA 1700, Formato: ATX, Soporte de RAM: DDR4 hasta 128GB, Conectividad: USB 3.2, Ethernet 2.5Gb",
+    "category": "placa madre",
+    "image": "https://image.shutterstock.com/image-photo/motherboard-260nw-1603216542.jpg"
+  },
+  {
+    "title": "SSD Crucial MX500 1TB",
+    "price": 120,
+    "description": "Capacidad: 1TB, Interfaz: SATA 6Gb/s, Velocidad de lectura: 560 MB/s, Velocidad de escritura: 510 MB/s",
+    "category": "disco ssd",
+    "image": "https://image.shutterstock.com/image-photo/ssd-260nw-1679852312.jpg"
+  },
+  {
+    "title": "Case Corsair iCUE 4000X",
+    "price": 150,
+    "description": "Formato: Mid Tower, Compatibilidad: ATX, MicroATX, Mini-ITX, Ventiladores incluidos: 3, Iluminación RGB",
+    "category": "case",
+    "image": "https://image.shutterstock.com/image-photo/case-260nw-1554469934.jpg"
+  },
+  {
+    "title": "Impresora Multifunción Canon PIXMA G3110",
+    "price": 170,
+    "description": "Tipo: Multifunción (impresión, escaneo, copiado), Conectividad: USB, WiFi, Sistema de tinta continua",
+    "category": "impresora",
+    "image": "https://image.shutterstock.com/image-photo/printer-260nw-1804379613.jpg"
+  },
+  {
+    "title": "Router ASUS RT-AX55",
+    "price": 120,
+    "description": "Tipo: Router WiFi 6, Velocidad: Hasta 1.8 Gbps, Bandas: Dual-Band, Puertos: 4 LAN, 1 WAN",
+    "category": "router",
+    "image": "https://image.shutterstock.com/image-photo/router-260nw-1811252364.jpg"
+  },
+  {
+    "title": "Cámara Web Razer Kiyo",
+    "price": 100,
+    "description": "Resolución: 1080p, Micrófono: Integrado, Luz anular ajustable, Conectividad: USB",
+    "category": "cámara web",
+    "image": "https://image.shutterstock.com/image-photo/webcam-260nw-1823546594.jpg"
+  },
+  {
+    "title": "Altavoces Edifier R1280T",
+    "price": 100,
+    "description": "Sistema: 2.0, Potencia: 42W RMS, Conectividad: RCA, Entrada auxiliar: 3.5mm",
+    "category": "altavoces",
+    "image": "https://image.shutterstock.com/image-photo/speakers-260nw-1653418767.jpg"
+  },
+  {
+    "title": "Tablet Samsung Galaxy Tab S6 Lite",
+    "price": 280,
+    "description": "Pantalla: 10.4 pulgadas, Resolución: 2000 x 1200 pixeles, Almacenamiento: 64GB, Conectividad: WiFi",
+    "category": "tablet",
+    "image": "https://image.shutterstock.com/image-photo/tablet-260nw-1479854323.jpg"
+  },
+  {
+    "title": "Cable DisplayPort 1.4 2m",
+    "price": 25,
+    "description": "Longitud: 2 metros, Resolución: 8K a 60Hz, Conectores: Chapados en oro, Tipo: DisplayPort 1.4",
+    "category": "cable",
+    "image": "https://image.shutterstock.com/image-photo/cable-260nw-1598234217.jpg"
+  },
+  {
+    "title": "Silla Gamer DXRacer Formula Series",
+    "price": 250,
+    "description": "Material: Cuero sintético, Reclinable: Hasta 135 grados, Capacidad de carga: 120kg",
+    "category": "silla gamer",
+    "image": "https://image.shutterstock.com/image-photo/chair-260nw-1502354321.jpg"
+  },
+  {
+    "title": "Notebook Lenovo Ideapad",
+    "price": 332,
+    "description": "Pantalla: 14 pulgadas, Resolución: 1366 x 768 pixeles, Sistema operativo: Windows 11s Home, Procesador: Intel Celeron N4020 Dual Core, Memoria RAM: 4GB, Memoria interna: 128 GB SSD",
+    "category": "notebook",
+    "image": "https://image.shutterstock.com/image-photo/laptop-on-white-background-260nw-1444361495.jpg"
+  },
+  {
+    "title": "Monitor Samsung 24\"",
+    "price": 150,
+    "description": "Pantalla: 24 pulgadas, Resolución: 1920 x 1080 pixeles, Tipo de panel: LED, Conectividad: HDMI, VGA, Frecuencia de actualización: 75Hz",
+    "category": "monitor",
+    "image": "https://image.shutterstock.com/image-photo/computer-monitor-isolated-on-white-260nw-1553819934.jpg"
+  },
+  {
+    "title": "Teclado Mecánico Corsair",
+    "price": 120,
+    "description": "Tipo de switch: Cherry MX Red, Iluminación: RGB, Conectividad: USB, Diseño: Teclado completo (104 teclas), Funciones adicionales: Anti-ghosting, macros programables",
+    "category": "teclado",
+    "image": "https://image.shutterstock.com/image-photo/mechanical-keyboard-isolated-on-white-260nw-1674875268.jpg"
+  },
+  {
+    "title": "Mouse Logitech G502",
+    "price": 75,
+    "description": "Sensor: HERO 25K, DPI: Hasta 25600, Conectividad: USB, Botones programables: 11, Peso ajustable: Sí",
+    "category": "mouse",
+    "image": "https://image.shutterstock.com/image-photo/gaming-mouse-isolated-on-white-260nw-1602698303.jpg"
+  },
+  {
+    "title": "Auriculares Sony WH-1000XM4",
+    "price": 299,
+    "description": "Tipo: Over-ear, Cancelación de ruido: Activa, Conectividad: Bluetooth, Duración de batería: Hasta 30 horas, Micrófono: Integrado",
+    "category": "auriculares",
+    "image": "https://image.shutterstock.com/image-photo/modern-wireless-headphones-isolated-on-260nw-1694896168.jpg"
+  },
+  {
+    "title": "Procesador AMD Ryzen 5 5600X",
+    "price": 200,
+    "description": "Cores: 6, Threads: 12, Frecuencia base: 3.7 GHz, Frecuencia turbo: 4.6 GHz, Socket: AM4, Gráficos integrados: No",
+    "category": "procesador",
+    "image": "https://image.shutterstock.com/image-photo/modern-processor-isolated-on-white-260nw-1865049210.jpg"
+  },
+  {
+    "title": "Tarjeta Gráfica NVIDIA GeForce RTX 3060",
+    "price": 450,
+    "description": "Memoria: 12GB GDDR6, CUDA Cores: 3584, Salidas: HDMI, DisplayPort, Resolución máxima: 7680x4320",
+    "category": "tarjeta gráfica",
+    "image": "https://image.shutterstock.com/image-photo/graphics-card-isolated-on-white-260nw-1703942946.jpg"
+  },
+  {
+    "title": "Disco Duro Externo Seagate 2TB",
+    "price": 85,
+    "description": "Capacidad: 2TB, Tipo de conexión: USB 3.0, Velocidad de transferencia: Hasta 120MB/s, Compatibilidad: Windows y Mac",
+    "category": "disco duro",
+    "image": "https://image.shutterstock.com/image-photo/external-hard-drive-isolated-on-260nw-1669560259.jpg"
+  },
+  {
+    "title": "Memoria RAM Corsair Vengeance LPX 16GB",
+    "price": 90,
+    "description": "Capacidad: 16GB (2x8GB), Tipo: DDR4, Frecuencia: 3200 MHz, Latencia: CL16, Voltaje: 1.35V",
+    "category": "memoria RAM",
+    "image": "https://image.shutterstock.com/image-photo/ram-memory-module-isolated-on-260nw-1909875783.jpg"
+  },
+  {
+    "title": "Fuente de Alimentación EVGA 600W",
+    "price": 65,
+    "description": "Potencia: 600W, Certificación: 80 Plus Bronze, Conectores: ATX, EPS, PCIe, SATA, Protección: OVP, OCP, SCP",
+    "category": "fuente de alimentación",
+    "image": "https://image.shutterstock.com/image-photo/power-supply-isolated-on-white-260nw-1715327089.jpg"
+  },
+  {
+    "title": "Placa Madre ASUS TUF Gaming B550-PLUS",
+    "price": 180,
+    "description": "Socket: AM4, Formato: ATX, Soporte de RAM: DDR4 hasta 128GB, Conectividad: USB 3.2, HDMI, Ethernet 2.5Gb",
+    "category": "placa madre",
+    "image": "https://image.shutterstock.com/image-photo/motherboard-isolated-on-white-background-260nw-1649529784.jpg"
+  },
+  {
+    "title": "SSD Kingston A2000 500GB",
+    "price": 70,
+    "description": "Capacidad: 500GB, Interfaz: NVMe PCIe, Velocidad de lectura: 2200 MB/s, Velocidad de escritura: 2000 MB/s",
+    "category": "disco ssd",
+    "image": "https://image.shutterstock.com/image-photo/ssd-solid-state-drive-isolated-260nw-1938352148.jpg"
+  },
+  {
+    "title": "Case NZXT H510",
+    "price": 100,
+    "description": "Formato: Mid Tower, Compatibilidad: ATX, MicroATX, Mini-ITX, Ventiladores incluidos: 2, Material: Acero y vidrio templado",
+    "category": "case",
+    "image": "https://image.shutterstock.com/image-photo/modern-pc-case-isolated-on-260nw-1931210582.jpg"
+  },
+  {
+    "title": "Router TP-Link Archer AX10",
+    "price": 60,
+    "description": "Tipo: Router WiFi 6, Velocidad: Hasta 1.5 Gbps, Bandas: Dual-Band, Puertos: 4 LAN, 1 WAN, Antenas: 3 externas",
+    "category": "router",
+    "image": "https://image.shutterstock.com/image-photo/router-isolated-on-white-background-260nw-1844320804.jpg"
+  },
+  {
+    "title": "Mouse Pad Gaming SteelSeries QcK",
+    "price": 20,
+    "description": "Dimensiones: 450mm x 400mm, Material: Tela de microtejido, Base: Goma antideslizante, Grosor: 2mm",
+    "category": "mouse pad",
+    "image": "https://image.shutterstock.com/image-photo/mouse-pad-isolated-on-white-260nw-1504212434.jpg"
+  },
+  {
+    "title": "Auriculares Bluetooth JBL Tune 510BT",
+    "price": 50,
+    "description": "Conectividad: Bluetooth, Autonomía: Hasta 40 horas, Tipo: On-ear, Micrófono integrado: Sí",
+    "category": "auriculares",
+    "image": "https://image.shutterstock.com/image-photo/headphones-260nw-1478916312.jpg"
+  },
+  {
+    "title": "Teclado Razer BlackWidow Elite",
+    "price": 150,
+    "description": "Tipo de switch: Razer Green, Iluminación: RGB, Diseño: Teclado completo (104 teclas), Conectividad: USB",
+    "category": "teclado",
+    "image": "https://image.shutterstock.com/image-photo/keyboard-260nw-1874325673.jpg"
+  },
+  {
+    "title": "SSD WD Black SN750 1TB",
+    "price": 130,
+    "description": "Capacidad: 1TB, Interfaz: NVMe PCIe, Velocidad de lectura: 3400 MB/s, Velocidad de escritura: 3000 MB/s",
+    "category": "disco ssd",
+    "image": "https://image.shutterstock.com/image-photo/ssd-260nw-1756549823.jpg"
+  },
+  {
+    "title": "Monitor Gaming Acer Predator 32\"",
+    "price": 500,
+    "description": "Pantalla: 32 pulgadas, Resolución: 2560 x 1440 pixeles, Tipo de panel: IPS, Frecuencia de actualización: 165Hz",
+    "category": "monitor",
+    "image": "https://image.shutterstock.com/image-photo/monitor-260nw-1956723234.jpg"
+  },
+  {
+    "title": "Placa Madre Gigabyte A520M",
+    "price": 100,
+    "description": "Socket: AM4, Formato: MicroATX, Soporte de RAM: DDR4 hasta 64GB, Conectividad: USB 3.2, HDMI",
+    "category": "placa madre",
+    "image": "https://image.shutterstock.com/image-photo/motherboard-260nw-1634325657.jpg"
+  },
+  {
+    "title": "Procesador Intel Core i9-12900K",
+    "price": 600,
+    "description": "Cores: 16, Threads: 24, Frecuencia base: 3.2 GHz, Frecuencia turbo: 5.2 GHz, Socket: LGA 1700",
+    "category": "procesador",
+    "image": "https://image.shutterstock.com/image-photo/processor-260nw-1932542367.jpg"
+  },
+  {
+    "title": "Fuente de Alimentación Seasonic 850W",
+    "price": 140,
+    "description": "Potencia: 850W, Certificación: 80 Plus Platinum, Modular: Sí, Protección: OVP, OCP, SCP",
+    "category": "fuente de alimentación",
+    "image": "https://image.shutterstock.com/image-photo/psu-260nw-1932345423.jpg"
+  },
+  {
+    "title": "Mouse Gaming Glorious Model O",
+    "price": 80,
+    "description": "Sensor: Óptico, DPI: Hasta 12000, Conectividad: USB, Diseño: Ambidiestro, Peso: 67g",
+    "category": "mouse",
+    "image": "https://image.shutterstock.com/image-photo/mouse-260nw-1937435634.jpg"
+  },
+  {
+    "title": "Tablet Lenovo Tab M10 Plus",
+    "price": 200,
+    "description": "Pantalla: 10.3 pulgadas, Resolución: 1920 x 1200 pixeles, Almacenamiento: 64GB, Conectividad: WiFi",
+    "category": "tablet",
+    "image": "https://image.shutterstock.com/image-photo/tablet-260nw-1534327456.jpg"
+  },
+  {
+    "title": "Case Cooler Master MasterBox Q300L",
+    "price": 60,
+    "description": "Formato: MicroATX, Compatibilidad: MicroATX y Mini-ITX, Ventiladores incluidos: 1, Material: Acero y plástico",
+    "category": "case",
+    "image": "https://image.shutterstock.com/image-photo/case-260nw-1457439825.jpg"
+  }
+]
